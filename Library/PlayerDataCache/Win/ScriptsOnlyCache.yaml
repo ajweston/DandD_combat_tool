@@ -44,19 +44,21 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11156}
+      Script: {instanceID: 11152}
     - Class: 114
-      Script: {instanceID: 11312}
+      Script: {instanceID: 11308}
     - Class: 114
-      Script: {instanceID: 11314}
+      Script: {instanceID: 11310}
     - Class: 114
-      Script: {instanceID: 11352}
+      Script: {instanceID: 11348}
     - Class: 114
-      Script: {instanceID: 11646}
+      Script: {instanceID: 11644}
     - Class: 114
-      Script: {instanceID: 11734}
+      Script: {instanceID: 11732}
     - Class: 114
-      Script: {instanceID: 11920}
+      Script: {instanceID: 11918}
+    - Class: 114
+      Script: {instanceID: 12102}
     - Class: 114
       Script: {instanceID: 12110}
     - Class: 114
@@ -66,13 +68,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12584}
     - Class: 114
-      Script: {instanceID: 12920}
+      Script: {instanceID: 12922}
     - Class: 114
-      Script: {instanceID: 12932}
+      Script: {instanceID: 12934}
     - Class: 114
-      Script: {instanceID: 12946}
-    - Class: 114
-      Script: {instanceID: 16686}
+      Script: {instanceID: 12948}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -314,6 +314,12 @@ ScriptsOnlyBuild:
     className: TextContainer
   - hash:
       serializedVersion: 2
+      Hash: cc250a1e364945f0fb52bbf547e665e5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: UIController
+  - hash:
+      serializedVersion: 2
       Hash: 5f1752ed2092162f016c19510c28a8b9
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -510,13 +516,7 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: cc250a1e364945f0fb52bbf547e665e5
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: UIController
   platform: 5
   scenePathNames:
   - Assets/Scenes/CombatTool.unity
-  playerPath: C:/Users/alecj/Documents/GitHub/DanD_combat_tool/Build/DanD_combat_tool.exe
+  playerPath: C:/Users/alecj/Documents/GitHub/DandD_combat_tool/Build/DanD_combat_tool.exe
