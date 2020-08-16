@@ -1,0 +1,60 @@
+0 : Default/NULL                         
+1 :	Axe, Battle            
+2 :	Axe, Hand                  
+3 :	Bardiche                  
+4 :	Bec de Corbin             
+5 :	Bill-Guisarme              
+6 :	Bo Stick                   
+7 :	Club                      
+8 :	Dagger                    
+9 :	Fauchard                   
+10:	Fauchard-Fork            
+11:	Fist or Open Hand          
+12:	Flail, Footman's           
+13:	Flail, Horseman's       
+14:	Fork, Military         
+15:	Glaive                     
+16:	Glaive-Guisarme            
+17:	Guisarme                   
+18:	Guisarme-Voulge            
+19:	Halberd                    
+20:	Hammer, Lucern             
+21:	Hammer                     
+22:	Jo Stick                   
+23:	Lance (Heavy Horse)        
+24:	Lance (Light Horse)        
+25:	Lance (Medium Horse)       
+26:	Mace, Footman's            
+27:	Mace, Horseman's           
+28:	Morning Star               
+29:	Partisan                  
+30:	Pick, Military, Footman's  
+31:	Pick, Military, Horseman's 
+32:	Pick, Awl                 
+33:	Ranseur                    
+34:	Scimitar                   
+35:	Spear                     
+36:	Septum                     
+37:	Staff, Quarter             
+38:	Sword, Bastard             
+39:	Sword, Broad              
+40:	Sword, Long               
+41:	Sword, Short               
+42:	Sword, Two-Handed         
+43:	Trident                   
+44:	Voulge                    
+45:	Thrown Hand-Axe            
+46:	Bow, Composite, Long      
+47:	Bow, Composite, Short      
+48:	Bow, Long                  
+49:	Bow, Short                 
+50:	Thrown Club                
+51:	Crossbow, Heavy            
+52:	Crossbow, Light            
+53:	Thrown Dagger              
+54:	Dart                 
+55:	Thrown Hammer              
+56:	Javelin                
+57:	Sling, Bullet              
+58:	Sling, Stone               
+59:	Thrown Spear                
