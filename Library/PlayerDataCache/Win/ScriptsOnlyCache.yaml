@@ -1,7 +1,9 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
-    - UIController
+    - CombatController
+    - Controller
+    - OptionsController
     Unity.Rider.Editor.dll:
     - Packages.Rider.Editor.UnitTesting.CallbackData
     UnityEditor.TestRunner.dll:
@@ -73,6 +75,10 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12934}
     - Class: 114
       Script: {instanceID: 12948}
+    - Class: 114
+      Script: {instanceID: 685542}
+    - Class: 114
+      Script: {instanceID: 749594}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -317,7 +323,7 @@ ScriptsOnlyBuild:
       Hash: cc250a1e364945f0fb52bbf547e665e5
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: UIController
+    className: CombatController
   - hash:
       serializedVersion: 2
       Hash: 5f1752ed2092162f016c19510c28a8b9
@@ -516,6 +522,18 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Controller
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: OptionsController
   platform: 5
   scenePathNames:
   - Assets/Scenes/CombatTool.unity

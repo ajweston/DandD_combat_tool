@@ -8,4 +8,6 @@ To build profiles, open the csv file in the build/config folder and fill out the
 
 Use up and down arrows to switch pages.
 
+Press escape for options menu.
+
 
